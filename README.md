@@ -1,63 +1,24 @@
-# Hi, I'm Gabor
+# Gabor Cserto
 
-I'm a Software Engineer with 10+ years of experience in software development,
-primarily focused on front-end development with React and TypeScript.
+Software Engineer with 15+ years of professional experience, primarily focused
+on front-end development with React and TypeScript.
 
-I'm currently expanding my experience in full-stack development, backend
-technologies, cloud services, and AI-assisted software development.
+Currently expanding my focus into full-stack development, backend architecture,
+cloud technologies, and AI-assisted software development.
 
-## Tech Stack
+## Tech
 
-**Frontend**
+**Frontend:** React, TypeScript, JavaScript, Next.js, HTML, CSS  
+**Backend:** Node.js, NestJS, Express, PHP, REST APIs  
+**Data:** PostgreSQL, MySQL, SQL, Prisma  
+**Tools & Cloud:** Git, GitHub Actions, Docker, Turborepo, AWS
 
-React · TypeScript · JavaScript · Next.js · HTML · CSS
+## Personal Projects
 
-**Backend**
+- **[Movie Explorer](https://github.com/gaborcserto/movie-explorer)** — Modernizing an older movie application with React, TypeScript, Node.js, TMDB integration, testing, and accessibility improvements.
+- **[NextPress](https://github.com/gaborcserto/nextpress)** — Personal full-stack publishing project built with Next.js, TypeScript, PostgreSQL, Prisma, and Turborepo.
 
-Node.js · NestJS · Express · PHP · REST APIs
+## Interests
 
-**Data**
-
-PostgreSQL · SQL · Prisma
-
-**Tools & Cloud**
-
-Git · GitHub · GitHub Actions · Turborepo · Docker · AWS
-
-## What I'm Building
-
-### Movie Explorer
-
-I'm modernizing one of my older movie applications while experimenting with
-current React and TypeScript practices.
-
-The project includes a Node.js backend, TMDB integration, testing,
-accessibility improvements, and a modern responsive interface.
-
-**Tech:** React · TypeScript · Node.js · TMDB API
-
-### NextPress
-
-A personal full-stack publishing project where I'm exploring modern application
-architecture and backend development.
-
-It uses separate public and administration applications in a monorepo,
-with authentication and a PostgreSQL database.
-
-**Tech:** Next.js · React · TypeScript · PostgreSQL · Prisma · Turborepo
-
-## Currently Exploring
-
-I'm currently interested in:
-
-- full-stack application architecture
-- backend development
-- AI agents and developer tooling
-- LLM integrations
-- cloud technologies
-- modernizing and improving legacy applications
-
-## Beyond Code
-
-Outside of programming, I'm interested in technology, AI, gaming, cars,
-and Formula 1.
+Full-stack development · Backend architecture · AI agents · Developer tooling ·
+LLM integrations · Cloud technologies · Legacy modernization
