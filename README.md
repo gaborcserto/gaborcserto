@@ -12,11 +12,12 @@ cloud technologies, and AI-assisted software development.
 **Backend:** Node.js, NestJS, Express, PHP, REST APIs  
 **Data:** PostgreSQL, MySQL, SQL, Prisma  
 **Tools & Cloud:** Git, GitHub Actions, Docker, Turborepo, AWS
+**AI-assisted Development:** Claude Code, OpenAI Codex, GitHub Copilot
 
 ## Personal Projects
 
-- **[Movie Explorer](https://github.com/gaborcserto/movie-explorer)** — Modernizing an older movie application with React, TypeScript, Node.js, TMDB integration, testing, and accessibility improvements.
-- **[NextPress](https://github.com/gaborcserto/nextpress)** — Personal full-stack publishing project built with Next.js, TypeScript, PostgreSQL, Prisma, and Turborepo.
+- **[Movie Explorer](https://github.com/gaborcserto/movie-explorer)** — Full-stack movie and TV discovery application modernized from a legacy project using React, TypeScript, and NestJS, featuring TMDB integration, automated testing, CI/CD, and accessibility improvements.
+- **[NextPress](https://github.com/gaborcserto/nextpress)** — Personal full-stack CMS and publishing platform built with Next.js, TypeScript, PostgreSQL, Prisma, and Turborepo, featuring authentication, admin functionality, and automated testing.
 
 ## Interests
 
